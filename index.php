@@ -1,17 +1,18 @@
 <style>
   * {
     text-align: center;
+    background-color: black;
   }
 
   li {
-    color: brown;
+    color: chocolate;
     font-weight: bold;
     font-size: 15px;
     padding: .4rem;
   }
 
   li:first-child {
-    color: indigo;
+    color: goldenrod;
     font-size: 20px;
   }
 </style>
